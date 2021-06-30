@@ -28,4 +28,4 @@ services:
       - POSTGRES_USER=nilesh
       - POSTGRES_PASSWORD=7990nilesh@H
     ports:
-      - "5433:5432"
+      - "5432:5432"
